@@ -84,3 +84,35 @@ AWAP completeness does not imply accuracy, approval, endorsement, or institution
 Architectural Risk to Watch (Drift)
 The primary failure mode is authority creep: intake staff using AWAP to evaluate content, reasoning, or merit rather than packet completeness.
 If this occurs, AWAP ceases to be an artifact gate and becomes a governance mechanism—at which point the architecture has been violated.
+
+DXG Pattern Compliance (Declarative)
+
+The AI-Assisted Work Admissibility Packet (AWAP) is a canonical instantiation of the Declared-X Gate (DXG) Pattern.
+
+AWAP instantiates the DXG pattern as follows:
+
+Boundary-based: applies only at the moment a work product enters an official institutional workflow
+
+Declarative: records disclosures of AI assistance and responsibility without evaluation
+
+Non-evaluative: performs no assessment of content, merit, correctness, or adequacy
+
+Authority-preserving: requires a singular named human accepting responsibility
+
+Phase-specific: emitted once, terminally, at a single admissibility boundary
+
+The declared dimension (“X”) instantiated by AWAP is:
+
+Assistance (AI involvement and provenance)
+
+AWAP does not:
+
+verify the accuracy of disclosures
+
+evaluate appropriateness of AI use
+
+authorize publication, funding, or action
+
+AWAP remains a closed, read-only packet whose completeness does not imply endorsement, approval, or institutional responsibility.
+
+DXG compliance explains AWAP’s structure; it does not expand AWAP’s authority or scope.
